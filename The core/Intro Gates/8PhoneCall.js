@@ -12,8 +12,11 @@ function solution(min1, min2_10, min11, s) {
     if (s > price2_10) {
         const moneyLeft = s - price2_10
         const minutosDepoisDo10 = Math.floor(moneyLeft / min11)
-        console.log(10 + minutosDepoisDo10)
         return (10 + minutosDepoisDo10)
+    }else{
+        const moneyLeft = s - min1
+        const minutosDepoisDo1 = Math.floor(moneyLeft / min2_10)
+        return (1 + minutosDepoisDo1)
     }
 
 
