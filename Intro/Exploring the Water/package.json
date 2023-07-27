@@ -1,11 +1,11 @@
 {
-  "name": "smooth-sailing",
+  "name": "exploring-the-water",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 13-reverseInParentheses"
+    "dev": "tsx watch 17-arrayChange"
   },
   "keywords": [],
   "author": "",
