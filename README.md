@@ -6,9 +6,9 @@ Na plataforma, há uma variedade de tópicos que abrangem diferentes tecnologias
 
 ## 🚀 Progresso
 
-- Intro: 17/60
+- Intro: 24/60
 - The core: 13/60
-- Databases: 3/84
+- Databases: 4/84
 
 ## 🙂 Perfil
 

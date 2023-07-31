@@ -1,11 +1,11 @@
 {
-  "name": "exploring-the-water",
+  "name": "island-of-knowledge",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 18-palindromeRearranging"
+    "dev": "tsx watch 24-minesweeper"
   },
   "keywords": [],
   "author": "",
