@@ -7,7 +7,6 @@ function solution(matrix) {
     matrix.map((array, indexMatrix, matrix) => {
         const newArray = array.map((number, index) => {
             let numero = 0
-            // number && numero++
             array[index - 1] && numero++
             array[index + 1] && numero++
             matrix[indexMatrix - 1] && (matrix[indexMatrix - 1][index] && numero++,
