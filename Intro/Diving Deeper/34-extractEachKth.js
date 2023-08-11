@@ -8,7 +8,6 @@ function solution(inputArray, k) {
     return inputArray.filter((number, index) => (index + 1) % k !== 0)
 
 
-    return result
 
 }
 

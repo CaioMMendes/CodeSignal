@@ -1,11 +1,11 @@
 {
-  "name": "island-of-knowledge",
+  "name": "dark-wilderness",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 23-BoxBlur"
+    "dev": "tsx watch 42-BishopandPawn"
   },
   "keywords": [],
   "author": "",
