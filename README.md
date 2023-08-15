@@ -1,13 +1,14 @@
+<!-- markdownlint-disable MD041 -->
 ## 📌 Sobre
 
 **CodeSignal** é uma plataforma de tecnologia focada em avaliar as habilidades de programação de desenvolvedores.
 
 Na plataforma, há uma variedade de tópicos que abrangem diferentes tecnologias, cada um contendo diversos desafios.
 
-## 🚀 Progre
+## 🚀 Progresso
 
 - Intro: 60/60
-- The core: 13/60
+- The core: 26/60
 - Databases: 23/84
 
 ## 🙂 Perfil
