@@ -1,11 +1,11 @@
 {
-  "name": "loop-tunnel",
+  "name": "listforestedge",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 34-CountBlackCells.js"
+    "dev": "tsx watch 42-MakeArrayConsecutive2"
   },
   "keywords": [],
   "author": "",
