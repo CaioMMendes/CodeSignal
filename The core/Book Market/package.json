@@ -1,11 +1,11 @@
 {
-  "name": "labyrinth-of-nested-loops",
+  "name": "book-market",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 50-CrosswordFormation"
+    "dev": "tsx watch 58-IsUnstablePair.js"
   },
   "keywords": [],
   "author": "",

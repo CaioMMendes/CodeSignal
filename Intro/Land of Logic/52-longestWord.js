@@ -1,6 +1,7 @@
 
 const text = "Ready[[[, steady, go!"
 
+
 function solution(text) {
     const delimitadores = " 0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~";
     const splited = text.split(new RegExp(`[${delimitadores}]`));
