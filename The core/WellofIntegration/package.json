@@ -1,11 +1,11 @@
 {
-  "name": "mirror-lake",
+  "name": "wellofintegration",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "67-HouseNumbersSum.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 66-NumberofClans.js"
+    "dev": "tsx watch 79-ThreeSplit.js"
   },
   "engines": {
     "node": ">=20"
