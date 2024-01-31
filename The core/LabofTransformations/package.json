@@ -1,11 +1,14 @@
 {
-  "name": "labyrinth-of-nested-loops",
+  "name": "laboftransformations",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "80-CharacterParity.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsx watch 50-CrosswordFormation-copy.js"
+    "dev": "tsx watch 87-AlphanumericLess.js"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "keywords": [],
   "author": "",
